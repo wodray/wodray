@@ -1,5 +1,9 @@
-<h1 align="center">苟日新，日日新，又日新</h1>
-<br>
+<div align="center">  
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=36&pause=1000&color=132c33&center=true&vCenter=true&repeat=false&width=450&height=60&lines=%E8%8B%9F%E6%97%A5%E6%96%B0%EF%BC%8C%E6%97%A5%E6%97%A5%E6%96%B0%EF%BC%8C%E5%8F%88%E6%97%A5%E6%96%B0)](https://git.io/typing-svg)
+
+</div>
+<hr>
 <div align="center">
 
   ![Static Badge](https://img.shields.io/badge/Python-336d9c?style=for-the-badge&logo=python&logoColor=white)
