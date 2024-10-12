@@ -1,7 +1,4 @@
-<h1 align="center">知也无涯</h1>
-<div align="center">
-  <b><i>苟日新，日日新，又日新。</i></b>
-</div>
+<h1 align="center">苟日新，日日新，又日新</h1>
 <br>
 <div align="center">
 
